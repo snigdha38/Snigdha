@@ -1,1 +1,1 @@
-Prepared git repository
+learning git
